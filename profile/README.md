@@ -1,15 +1,16 @@
 # 🚀 Cliptic
 
 **Cliptic** is a self-hosted clipboard manager and syncing platform
-designed to keep your clipboard history accessible across all your devices.
+designed to keep your clipboard history instantly accessible across all your devices.
 
-> Your clipboard, synced across devices — without relying on third-party cloud services.
+> Offline-first clipboard management — syncs when you need it, works when you don’t.
 
 ## ✨ Features
 
-* 📋 Clipboard history manager (desktop)
+* 📡 Offline-first — fully functional without a server, syncs when available
 * 🔄 Cross-device syncing via self-hosted server
 * 🔒 Privacy-first — end-to-end encryption
+* 📋 Clipboard history manager
 * ⚡ Fast, lightweight, and minimal
 * 🖥️ Desktop client (Windows, Linux, macOS possible — contributions welcome)
 * 📱 Android client (coming soon)
@@ -25,11 +26,10 @@ designed to keep your clipboard history accessible across all your devices.
 👉 Full documentation & setup guide:
 **https://cliptic-app.github.io**
 
-
 ## 🧭 Vision
 
 Cliptic aims to be a simple, reliable alternative to cloud-based clipboard tools —
-while still offering the power and flexibility of local clipboard managers like [Ditto](https://github.com/sabrogden/Ditto).
+while still offering the power of local clipboard managers like [Ditto](https://github.com/sabrogden/Ditto).
 
 ## 🤝 Contributing
 
