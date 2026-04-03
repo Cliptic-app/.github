@@ -29,7 +29,7 @@ designed to keep your clipboard history accessible across all your devices.
 ## 🧭 Vision
 
 Cliptic aims to be a simple, reliable alternative to cloud-based clipboard tools —
-while still offering the power and flexibility of local clipboard managers like Ditto.
+while still offering the power and flexibility of local clipboard managers like [Ditto](https://github.com/sabrogden/Ditto).
 
 ## 🤝 Contributing
 
