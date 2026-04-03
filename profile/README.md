@@ -1,4 +1,4 @@
-# 🚀 Cliptic
+# Cliptic
 
 **Cliptic** is a self-hosted clipboard manager and syncing platform
 designed to keep your clipboard history instantly accessible across all your devices.
@@ -23,7 +23,7 @@ designed to keep your clipboard history instantly accessible across all your dev
 
 ## 📚 Documentation
 
-👉 Full documentation & setup guide:
+Full documentation & setup guide:
 **https://cliptic-app.github.io**
 
 ## 🧭 Vision
